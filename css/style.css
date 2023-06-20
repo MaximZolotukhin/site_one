@@ -51,5 +51,52 @@ body {
     width: 1440px;
     height: 1700px;
     padding: 106px 108px 137px 142px;
+    margin:0 auto;
     background-color: #e8e8e8;
+}
+
+header {
+    width: 1190px;
+    height: 1064px;
+    margin: 0 0 165px;
+    padding: 62px 202px 251px 147px; 
+    background-image: url(../img/background-svg.png);
+    border: 1px solid black;
+}
+
+.Travel {
+    width: 67px; 
+    height: 10px;
+    margin: 0 392px 0px 382px;
+    opacity: 0.6;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 2.8px;
+    color: rgba(39, 61, 70, 0.6);
+}
+
+.Donec-sed-odio-dui {
+    width: 730px;
+    height: 75px;
+    margin: 28px 0px 0px 45px;
+    font-family: TimesNewRomanPSMT;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.39;
+    letter-spacing: normal;
+    text-align: center;
+    color: #273d46;
+}
+
+header img{
+    width: 821px;
+    height: 541px;
+    margin-top: 77px;
+    /* margin: 77px 202px 0px 147px; */
+    border: solid 10px #fff;
+    box-shadow: 0px 15px 65px 0 rgba(15, 16, 16, 0.15);
 }
